@@ -1,7 +1,7 @@
 # ML_Text_Summarizer_Infosys_Internship_Nov2024
 This Text Summarization Project aims to develop a tool that efficiently condenses long articles, papers, or documents into concise summaries while preserving the key information and context. Utilizing advanced Natural Language Processing (NLP) techniques, this project focuses on both extractive and abstractive summarization methods.
 
-**Project Objective**
+****Project Objective****
 
 Develop Efficient Summarization Tools: Create tools to condense lengthy texts into concise summaries while retaining essential information.
 
@@ -11,7 +11,7 @@ Enhance User Experience with Summarizing UI:Integrate summarization methods into
 
 Support Diverse Applications:Apply summarization tools to various domains, including news articles, legal documents, research papers, and customer support.
 
-**Types of Text Summarization**
+****Types of Text Summarization****
 
 Extractive Summarization:Selects key sentences, phrases, or paragraphs directly from the source text without rephrasing. - Methods include - Frequency-Based, LexRank, TextRank, and Luhn summarization.
 
@@ -19,7 +19,7 @@ Abstractive Summarization:Generates summaries by understanding the text and writ
 
 Methods include T5 (Text-to-Text Transfer Transformer) and BART (Bidirectional and Auto-Regressive Transformers).
 
-**Techniques Used**
+****Techniques Used****
 
 Extractive Summarization
 Frequency-Based Summarization: Uses word frequency to identify the most important sentences.
@@ -31,7 +31,7 @@ BART: Combines bidirectional encoding and auto-regressive decoding for high-qual
 PDF Summarizer:-
 Summarizes content directly from PDF documents.
 
-**Evaluation Metrics**
+****Evaluation Metrics****
 
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Compares the overlap between the generated summary and reference summary using N-grams, word sequences, and longest common subsequences.
 
@@ -44,7 +44,7 @@ Upload text or PDF files.
 Select the summarization technique/algorithm.
 Generate the summary.
 
-**Use Cases**
+****Use Cases****
 
 Summarizing News Articles:-
 
@@ -56,7 +56,7 @@ Research Paper Summarization: Save time by reviewing concise summaries of scient
 
 Customer Support: Summarize chat logs to resolve queries
 
-**Conclusion**
+****Conclusion****
 
 This project demonstrates the capability of various summarization techniques to effectively condense large texts while maintaining key information. 
 By integrating these methods into an easy-to-use Gradio interface, users can easily generate summaries for different types of documents, enhancing productivity and information accessibility.
